@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![me](https://github.com/James-Damewood/Tetris_DP/blob/main/tetris.gif)
+
