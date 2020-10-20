@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-For Professional Information See: 
+For Professional Information See: https://www.linkedin.com/in/james-damewood/
 
-Check out some fun examples of things I work on in my free time: https://www.linkedin.com/in/james-damewood/
+Check out some fun examples of things I work on in my free time: 
 
 Tetris Dynamic Programming          |  Multiplayer Snake           | Reinforcement Learning Snake         
 :-------------------------:|:-------------------------: |:-------------------------: 
