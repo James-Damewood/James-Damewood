@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Solarized dark             |  Solarized Ocean           | Solarized Ocean          
+Tetris Dynamic Programming          |  Solarized Ocean           | Solarized Ocean          
 :-------------------------:|:-------------------------: |:-------------------------: 
-![](https://...Dark.png)  |  ![](https://...Ocean.png)  |![](https://...Ocean.png) 
+![me](https://github.com/James-Damewood/Tetris_DP/blob/main/tetris.gif) |  ![](https://...Ocean.png)  |![](https://...Ocean.png) 
 
