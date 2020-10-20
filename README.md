@@ -1,5 +1,6 @@
-Hi there 👋
+Hi there 👋 Welcome to my github! 
 
+I am a PhD candidate in Materials Science at MIT. I am planning on joining the Center for Computational Science and Engineering. I am passionate about developing accurate, efficient, and scalable methods of scientific computation.
 <!--
 **James-Damewood/James-Damewood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Check out some fun examples of things I work on in my free time:
 
 Tetris Dynamic Programming          |  Multiplayer Snake           | Reinforcement Learning Snake         
 :-------------------------:|:-------------------------: |:-------------------------: 
