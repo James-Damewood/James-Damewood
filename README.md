@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Tetris Dynamic Programming          |  Multiplayer Snake           | Reinforcement Learning Snake         
 :-------------------------:|:-------------------------: |:-------------------------: 
-![me](https://github.com/James-Damewood/Tetris_DP/blob/main/tetris.gif) |   ![me](https://github.com/James-Damewood/SNAKE-/blob/main/Multiplayer.gif)    | ![me](https://github.com/James-Damewood/SNAKE-/blob/main/ai_mid.gif)
+![me](https://github.com/James-Damewood/Tetris_DP/blob/main/tetris.gif) |   ![me](https://github.com/James-Damewood/SNAKE-/blob/main/Multiplayer_small.gif)    | ![me](https://github.com/James-Damewood/SNAKE-/blob/main/ai_mid.gif)
 
